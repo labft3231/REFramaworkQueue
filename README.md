@@ -1,7 +1,7 @@
-# REFramaworkQueue
+# REFramaworkQueue2Datarow
 
 
-### - Excel 데이터를 읽어 Queue를 만들고 Queue에서 가져온 데이터로 다른 Excel 파일 만들기
+### - Excel 데이터(datatable)를 읽어 Queue에 저장하고 Queue에서 가져온 데이터(Datarow)로 다른 Excel 파일 만들기
 
 
 #### 1. init
